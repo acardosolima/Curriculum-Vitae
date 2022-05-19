@@ -25,7 +25,8 @@ Universidade Presbiteriana Mackenzie
 2010 - 2013
 
 ## **Certifications**
-AWS Solutions Architect Associate
+- AWS Solutions Architect Associate - Amazon Web Services
+- DevOps Essentials Professional Certificate (DEPC) - Certiprof
 
 ## **Languages**
 
@@ -39,24 +40,29 @@ Working proficiency
 
 ### Itaú Unibanco
 
-##### Senior System Analyst
+#### Senior System Analyst
 Jan 2021 - Current  | São Paulo, Brazil
+- Technical leadership of a 6-12 team responsible for development and maintenance of AML (Anti money laudering) systems
+- Vendor relationship and management of American big data solution accountable for AML's alerts and analysis
+- Architectural ideation and technical guidance for data science project using AWS services (S3, Athena, Glue, EMR and Quicksight)
 
-##### System Analyst
+#### System Analyst
 May 2019 - Dec 2020  | São Paulo, Brazil
+- Support and development of data pipelines/dashboards in big data solution used by AML's team, using python, java/scala and javascript technologies
+- Participation in technical discussions of analysis workflow platform using spring, cassandra, SQL server and angular
 
-##### Project Analyst
+#### Project Analyst
 Jun 2017 - Feb 2019  | São Paulo, Brazil
 
-##### Junior Project Analyst
+#### Junior Project Analyst
 Jan 2014 - May 2017  | São Paulo, Brazil
 
-##### Intern
+#### Intern
 May 2012 - Dec 2013  | São Paulo, Brazil
 
 ### Grupo Tejofran
 
-##### Administrative Assistant
+#### Administrative Assistant
 Dec 2009 - Dec 2011
 
 ## Skills
@@ -66,6 +72,7 @@ Dec 2009 - Dec 2011
 - SQL
 - Amazon Web Services
 - Javascript
+- React
 - Big Data Hadoop
 - Executive Presentations
 - Key Performance Indicators
