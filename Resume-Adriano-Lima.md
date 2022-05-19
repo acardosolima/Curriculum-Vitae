@@ -43,11 +43,13 @@ Working proficiency
 ##### Senior System Analyst
 Jan 2021 - Current  | São Paulo, Brazil
 - Technical leadership of a 6-12 team responsible for development and maintenance of AML (Anti money laudering) systems
-- Vendor relationship and management of big data solution accountable for AML's alerts and analysis
+- Vendor relationship and management of American big data solution accountable for AML's alerts and analysis
 - Architectural ideation and technical guidance for data science project using AWS services (S3, Athena, Glue, EMR and Quicksight)
 
 ##### System Analyst
 May 2019 - Dec 2020  | São Paulo, Brazil
+- Support and development of data pipelines/dashboards in big data solution used by AML's team, using python, java/scala and javascript technologies
+- Participation in technical discussions of analysis workflow platform using spring, cassandra, SQL server and angular
 
 ##### Project Analyst
 Jun 2017 - Feb 2019  | São Paulo, Brazil
