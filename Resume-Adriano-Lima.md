@@ -26,6 +26,7 @@ Universidade Presbiteriana Mackenzie
 
 ## **Certifications**
 AWS Solutions Architect Associate - Amazon Web Services
+
 DevOps Essentials Professional Certificate (DEPC) - Certiprof
 
 ## **Languages**
